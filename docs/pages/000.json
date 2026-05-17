@@ -1,0 +1,20 @@
+{
+  "page": 0,
+  "totalPages": 1,
+  "entries": [
+    {
+      "slot": 0,
+      "date": "2026-05-18",
+      "titleKo": "첫 번째 공개 일기",
+      "titleJa": "最初の公開日記",
+      "titleEn": "First public diary"
+    },
+    {
+      "slot": 1,
+      "date": "2026-05-17",
+      "titleKo": "두 번째 테스트 일기",
+      "titleJa": "二つ目のテスト日記",
+      "titleEn": "Second test diary"
+    }
+  ]
+}
