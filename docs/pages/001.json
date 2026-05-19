@@ -1,0 +1,76 @@
+{
+    "page":  1,
+    "totalPages":  3,
+    "entries":  [
+                    {
+                        "slot":  10,
+                        "date":  "2026-05-08",
+                        "titleKo":  "두 번째 페이지 첫 항목",
+                        "titleJa":  "二ページ目の最初の項目",
+                        "titleEn":  "First item on page two"
+                    },
+                    {
+                        "slot":  11,
+                        "date":  "2026-05-07",
+                        "titleKo":  "리로드 확인용 샘플",
+                        "titleJa":  "リロード確認用サンプル",
+                        "titleEn":  "Reload check sample"
+                    },
+                    {
+                        "slot":  12,
+                        "date":  "2026-05-06",
+                        "titleKo":  "중간 길이 본문 테스트",
+                        "titleJa":  "中くらいの本文テスト",
+                        "titleEn":  "Medium body test"
+                    },
+                    {
+                        "slot":  13,
+                        "date":  "2026-05-05",
+                        "titleKo":  "폰트 크기 조절 확인",
+                        "titleJa":  "フォントサイズ調整確認",
+                        "titleEn":  "Font size check"
+                    },
+                    {
+                        "slot":  14,
+                        "date":  "2026-05-04",
+                        "titleKo":  "행간 조절 확인",
+                        "titleJa":  "行間調整確認",
+                        "titleEn":  "Line spacing check"
+                    },
+                    {
+                        "slot":  15,
+                        "date":  "2026-05-03",
+                        "titleKo":  "자간 조절 확인",
+                        "titleJa":  "字間調整確認",
+                        "titleEn":  "Character spacing check"
+                    },
+                    {
+                        "slot":  16,
+                        "date":  "2026-05-02",
+                        "titleKo":  "본문 창 닫기 테스트",
+                        "titleJa":  "本文ウィンドウを閉じるテスト",
+                        "titleEn":  "Body window close test"
+                    },
+                    {
+                        "slot":  17,
+                        "date":  "2026-05-01",
+                        "titleKo":  "목록 유지 테스트",
+                        "titleJa":  "リスト保持テスト",
+                        "titleEn":  "List persistence test"
+                    },
+                    {
+                        "slot":  18,
+                        "date":  "2026-04-30",
+                        "titleKo":  "테마 전환 테스트",
+                        "titleJa":  "テーマ切替テスト",
+                        "titleEn":  "Theme switch test"
+                    },
+                    {
+                        "slot":  19,
+                        "date":  "2026-04-29",
+                        "titleKo":  "거리 초기화 테스트",
+                        "titleJa":  "距離リセットテスト",
+                        "titleEn":  "Distance reset test"
+                    }
+                ]
+}

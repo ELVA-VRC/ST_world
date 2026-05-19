@@ -1,10 +1,14 @@
 {
-  "version": 1,
-  "titleKo": "ELVA Diary",
-  "titleJa": "ELVA Diary",
-  "titleEn": "ELVA Diary",
-  "pageCount": 1,
-  "entriesPerPage": 10,
-  "defaultLanguage": "ko",
-  "languages": ["ko", "ja", "en"]
+    "version":  2,
+    "titleKo":  "ELVA Diary",
+    "titleJa":  "ELVA Diary",
+    "titleEn":  "ELVA Diary",
+    "pageCount":  3,
+    "entriesPerPage":  10,
+    "defaultLanguage":  "ko",
+    "languages":  [
+                      "ko",
+                      "ja",
+                      "en"
+                  ]
 }
