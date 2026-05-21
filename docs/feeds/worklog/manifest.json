@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "titleKo": "ELVA 작업일지",
+  "titleJa": "ELVA 作業日誌",
+  "titleEn": "ELVA Worklog",
+  "pageCount": 1,
+  "itemsPerPage": 3,
+  "defaultLanguage": "ko",
+  "languages": [
+    "ko",
+    "ja",
+    "en"
+  ]
+}
