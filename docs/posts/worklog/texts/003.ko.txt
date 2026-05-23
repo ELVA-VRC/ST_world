@@ -1,0 +1,4 @@
+이미지 블록만 있는 글도 가능하지만, 테스트를 위해 앞에는 짧은 설명을 붙였다.
+
+이미지는 GitHub Pages의 공통 images 폴더에서 번호로 불러온다.
+content JSON에는 실제 URL 대신 imageId와 aspect만 적는다.

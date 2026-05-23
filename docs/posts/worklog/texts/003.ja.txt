@@ -1,0 +1,4 @@
+画像ブロックだけの記事も可能だが、テスト用に先頭へ短い説明を付けた。
+
+画像は GitHub Pages の共通 images フォルダから番号で読み込む。
+content JSON には実際の URL ではなく、imageId と aspect だけを書く。
