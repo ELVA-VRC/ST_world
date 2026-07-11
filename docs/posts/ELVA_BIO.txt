@@ -1,6 +1,6 @@
 ELVA
 
-3D designer
+Virtual Artist
 Creating worlds and assets for VRChat.
 Virtual creation keeps me alive.
 Aspiring game developer.
