@@ -1,9 +1,0 @@
-{
-  "postId": 1,
-  "blocks": [
-    { "type": "text", "textId": 3 },
-    { "type": "image", "imageId": 1, "aspect": 1.7778 },
-    { "type": "text", "textId": 4 },
-    { "type": "image", "imageId": 2, "aspect": 1.7778 }
-  ]
-}

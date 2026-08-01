@@ -1,0 +1,24 @@
+{
+    "schemaVersion":  1,
+    "contentVersion":  "20260802-canonical-v1",
+    "postId":  "diary-legacy-022",
+    "slot":  22,
+    "channel":  "diary",
+    "date":  "2026-04-26",
+    "publishedAt":  "2026-04-26T00:00:00Z",
+    "updatedAt":  "2026-08-01T17:58:30.5294030+00:00",
+    "title":  {
+                  "ko":  "아주 짧은 글 테스트",
+                  "ja":  "とても短い文章テスト",
+                  "en":  "Very short text test"
+              },
+    "blocks":  [
+                   {
+                       "type":  "text",
+                       "text":  {
+                                    "ko":  "2026-04-26\r\n아주 짧은 글 테스트\r\n\r\n끝.\r\n",
+                                    "ja":  "2026-04-26\r\nとても短い文章テスト\r\n\r\n終わり。\r\n"
+                                }
+                   }
+               ]
+}

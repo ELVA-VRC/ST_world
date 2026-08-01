@@ -1,0 +1,49 @@
+{
+    "schemaVersion":  1,
+    "contentVersion":  "20260802-canonical-v1",
+    "postId":  "diary-blocks-001",
+    "slot":  26,
+    "channel":  "diary",
+    "date":  "2026-05-17",
+    "publishedAt":  "2026-05-17T00:00:00Z",
+    "updatedAt":  "2026-08-01T17:58:30.5294030+00:00",
+    "title":  {
+                  "ko":  "사진이 섞인 테스트 일기",
+                  "ja":  "写真入りのテスト日記",
+                  "en":  "Diary With Images"
+              },
+    "blocks":  [
+                   {
+                       "type":  "text",
+                       "text":  {
+                                    "ko":  "두 번째 테스트 글이다.\r\n\r\n이 글은 텍스트와 이미지가 두 번 섞이는 구성을 확인하기 위한 샘플이다.\r\n스크롤 영역의 마스킹, 이미지 블록의 높이 계산, 텍스트 블록의 자동 높이 계산을 같이 확인할 수 있다.\r\n",
+                                    "ja":  "二つ目のテスト記事。\r\n\r\nこの記事は、テキストと画像が二回混ざる構成を確認するためのサンプルだ。\r\nスクロール領域のマスク、画像ブロックの高さ計算、テキストブロックの自動高さ計算を一緒に確認できる。\r\n"
+                                }
+                   },
+                   {
+                       "type":  "image",
+                       "imageSlot":  1,
+                       "aspect":  1.7778,
+                       "alt":  {
+                                   "ko":  "",
+                                   "ja":  ""
+                               }
+                   },
+                   {
+                       "type":  "text",
+                       "text":  {
+                                    "ko":  "마지막 블록은 짧은 텍스트다.\r\n\r\n운영할 때는 content JSON에서 블록 순서를 바꾸면 된다.\r\n예를 들어 text, image, image, text 같은 구성도 가능하고, 텍스트만 있는 일기도 그대로 사용할 수 있다.\r\n",
+                                    "ja":  "最後のブロックは短いテキスト。\r\n\r\n運用時は content JSON のブロック順を変えればよい。\r\nたとえば text, image, image, text のような構成も可能で、テキストだけの日記もそのまま使える。\r\n"
+                                }
+                   },
+                   {
+                       "type":  "image",
+                       "imageSlot":  2,
+                       "aspect":  1.7778,
+                       "alt":  {
+                                   "ko":  "",
+                                   "ja":  ""
+                               }
+                   }
+               ]
+}

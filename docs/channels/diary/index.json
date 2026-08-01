@@ -1,0 +1,305 @@
+{
+    "schemaVersion":  1,
+    "contentVersion":  "20260802-canonical-v1",
+    "channel":  "diary",
+    "updatedAt":  "2026-08-01T17:58:30.5294030+00:00",
+    "posts":  [
+                  {
+                      "postId":  "diary-legacy-017",
+                      "slot":  17,
+                      "date":  "2026-05-01",
+                      "publishedAt":  "2026-05-01T00:00:00Z",
+                      "title":  {
+                                    "ko":  "목록 유지 테스트",
+                                    "ja":  "リスト保持テスト",
+                                    "en":  "List persistence test"
+                                }
+                  },
+                  {
+                      "postId":  "diary-legacy-018",
+                      "slot":  18,
+                      "date":  "2026-04-30",
+                      "publishedAt":  "2026-04-30T00:00:00Z",
+                      "title":  {
+                                    "ko":  "테마 전환 테스트",
+                                    "ja":  "テーマ切替テスト",
+                                    "en":  "Theme switch test"
+                                }
+                  },
+                  {
+                      "postId":  "diary-legacy-019",
+                      "slot":  19,
+                      "date":  "2026-04-29",
+                      "publishedAt":  "2026-04-29T00:00:00Z",
+                      "title":  {
+                                    "ko":  "거리 초기화 테스트",
+                                    "ja":  "距離リセットテスト",
+                                    "en":  "Distance reset test"
+                                }
+                  },
+                  {
+                      "postId":  "diary-legacy-014",
+                      "slot":  14,
+                      "date":  "2026-05-04",
+                      "publishedAt":  "2026-05-04T00:00:00Z",
+                      "title":  {
+                                    "ko":  "행간 조절 확인",
+                                    "ja":  "行間調整確認",
+                                    "en":  "Line spacing check"
+                                }
+                  },
+                  {
+                      "postId":  "diary-legacy-015",
+                      "slot":  15,
+                      "date":  "2026-05-03",
+                      "publishedAt":  "2026-05-03T00:00:00Z",
+                      "title":  {
+                                    "ko":  "자간 조절 확인",
+                                    "ja":  "字間調整確認",
+                                    "en":  "Character spacing check"
+                                }
+                  },
+                  {
+                      "postId":  "diary-legacy-016",
+                      "slot":  16,
+                      "date":  "2026-05-02",
+                      "publishedAt":  "2026-05-02T00:00:00Z",
+                      "title":  {
+                                    "ko":  "본문 창 닫기 테스트",
+                                    "ja":  "本文ウィンドウを閉じるテスト",
+                                    "en":  "Body window close test"
+                                }
+                  },
+                  {
+                      "postId":  "diary-legacy-020",
+                      "slot":  20,
+                      "date":  "2026-04-28",
+                      "publishedAt":  "2026-04-28T00:00:00Z",
+                      "title":  {
+                                    "ko":  "세 번째 페이지 장문 테스트",
+                                    "ja":  "三ページ目の長文テスト",
+                                    "en":  "Page three long test"
+                                }
+                  },
+                  {
+                      "postId":  "diary-legacy-024",
+                      "slot":  24,
+                      "date":  "2026-04-24",
+                      "publishedAt":  "2026-04-24T00:00:00Z",
+                      "title":  {
+                                    "ko":  "최종 장문 샘플",
+                                    "ja":  "最後の長文サンプル",
+                                    "en":  "Final long sample"
+                                }
+                  },
+                  {
+                      "postId":  "diary-blocks-000",
+                      "slot":  25,
+                      "date":  "2026-05-18",
+                      "publishedAt":  "2026-05-18T00:00:00Z",
+                      "title":  {
+                                    "ko":  "첫 번째 공개 일기",
+                                    "ja":  "最初の公開日記",
+                                    "en":  "First Public Diary"
+                                }
+                  },
+                  {
+                      "postId":  "diary-blocks-001",
+                      "slot":  26,
+                      "date":  "2026-05-17",
+                      "publishedAt":  "2026-05-17T00:00:00Z",
+                      "title":  {
+                                    "ko":  "사진이 섞인 테스트 일기",
+                                    "ja":  "写真入りのテスト日記",
+                                    "en":  "Diary With Images"
+                                }
+                  },
+                  {
+                      "postId":  "diary-legacy-021",
+                      "slot":  21,
+                      "date":  "2026-04-27",
+                      "publishedAt":  "2026-04-27T00:00:00Z",
+                      "title":  {
+                                    "ko":  "빈 줄 많은 글 테스트",
+                                    "ja":  "空行が多い文章テスト",
+                                    "en":  "Blank line test"
+                                }
+                  },
+                  {
+                      "postId":  "diary-legacy-022",
+                      "slot":  22,
+                      "date":  "2026-04-26",
+                      "publishedAt":  "2026-04-26T00:00:00Z",
+                      "title":  {
+                                    "ko":  "아주 짧은 글 테스트",
+                                    "ja":  "とても短い文章テスト",
+                                    "en":  "Very short text test"
+                                }
+                  },
+                  {
+                      "postId":  "diary-legacy-023",
+                      "slot":  23,
+                      "date":  "2026-04-25",
+                      "publishedAt":  "2026-04-25T00:00:00Z",
+                      "title":  {
+                                    "ko":  "페이지 끝 항목 테스트",
+                                    "ja":  "ページ末尾項目テスト",
+                                    "en":  "Page end item test"
+                                }
+                  },
+                  {
+                      "postId":  "diary-legacy-013",
+                      "slot":  13,
+                      "date":  "2026-05-05",
+                      "publishedAt":  "2026-05-05T00:00:00Z",
+                      "title":  {
+                                    "ko":  "폰트 크기 조절 확인",
+                                    "ja":  "フォントサイズ調整確認",
+                                    "en":  "Font size check"
+                                }
+                  },
+                  {
+                      "postId":  "diary-legacy-003",
+                      "slot":  3,
+                      "date":  "2026-05-15",
+                      "publishedAt":  "2026-05-15T00:00:00Z",
+                      "title":  {
+                                    "ko":  "머리말 스크롤 점검",
+                                    "ja":  "前書きスクロール確認",
+                                    "en":  "Intro scroll check"
+                                }
+                  },
+                  {
+                      "postId":  "diary-legacy-004",
+                      "slot":  4,
+                      "date":  "2026-05-14",
+                      "publishedAt":  "2026-05-14T00:00:00Z",
+                      "title":  {
+                                    "ko":  "목록 페이지 전환 테스트",
+                                    "ja":  "リストページ切替テスト",
+                                    "en":  "List paging test"
+                                }
+                  },
+                  {
+                      "postId":  "diary-legacy-005",
+                      "slot":  5,
+                      "date":  "2026-05-13",
+                      "publishedAt":  "2026-05-13T00:00:00Z",
+                      "title":  {
+                                    "ko":  "긴 글 스크롤 테스트",
+                                    "ja":  "長文スクロールテスト",
+                                    "en":  "Long scroll test"
+                                }
+                  },
+                  {
+                      "postId":  "diary-legacy-000",
+                      "slot":  0,
+                      "date":  "2026-05-18",
+                      "publishedAt":  "2026-05-18T00:00:00Z",
+                      "title":  {
+                                    "ko":  "첫 번째 공개 일기",
+                                    "ja":  "最初の公開日記",
+                                    "en":  "First public diary"
+                                }
+                  },
+                  {
+                      "postId":  "diary-legacy-001",
+                      "slot":  1,
+                      "date":  "2026-05-17",
+                      "publishedAt":  "2026-05-17T00:00:00Z",
+                      "title":  {
+                                    "ko":  "두 번째 테스트 일기",
+                                    "ja":  "二つ目のテスト日記",
+                                    "en":  "Second test diary"
+                                }
+                  },
+                  {
+                      "postId":  "diary-legacy-002",
+                      "slot":  2,
+                      "date":  "2026-05-16",
+                      "publishedAt":  "2026-05-16T00:00:00Z",
+                      "title":  {
+                                    "ko":  "세로 모니터 배치 테스트",
+                                    "ja":  "縦型モニター配置テスト",
+                                    "en":  "Portrait monitor layout test"
+                                }
+                  },
+                  {
+                      "postId":  "diary-legacy-006",
+                      "slot":  6,
+                      "date":  "2026-05-12",
+                      "publishedAt":  "2026-05-12T00:00:00Z",
+                      "title":  {
+                                    "ko":  "언어 전환 확인",
+                                    "ja":  "言語切替確認",
+                                    "en":  "Language switch check"
+                                }
+                  },
+                  {
+                      "postId":  "diary-legacy-010",
+                      "slot":  10,
+                      "date":  "2026-05-08",
+                      "publishedAt":  "2026-05-08T00:00:00Z",
+                      "title":  {
+                                    "ko":  "두 번째 페이지 첫 항목",
+                                    "ja":  "二ページ目の最初の項目",
+                                    "en":  "First item on page two"
+                                }
+                  },
+                  {
+                      "postId":  "diary-legacy-011",
+                      "slot":  11,
+                      "date":  "2026-05-07",
+                      "publishedAt":  "2026-05-07T00:00:00Z",
+                      "title":  {
+                                    "ko":  "리로드 확인용 샘플",
+                                    "ja":  "リロード確認用サンプル",
+                                    "en":  "Reload check sample"
+                                }
+                  },
+                  {
+                      "postId":  "diary-legacy-012",
+                      "slot":  12,
+                      "date":  "2026-05-06",
+                      "publishedAt":  "2026-05-06T00:00:00Z",
+                      "title":  {
+                                    "ko":  "중간 길이 본문 테스트",
+                                    "ja":  "中くらいの本文テスト",
+                                    "en":  "Medium body test"
+                                }
+                  },
+                  {
+                      "postId":  "diary-legacy-007",
+                      "slot":  7,
+                      "date":  "2026-05-11",
+                      "publishedAt":  "2026-05-11T00:00:00Z",
+                      "title":  {
+                                    "ko":  "라이트 모드 색감 메모",
+                                    "ja":  "ライトモード色味メモ",
+                                    "en":  "Light mode color note"
+                                }
+                  },
+                  {
+                      "postId":  "diary-legacy-008",
+                      "slot":  8,
+                      "date":  "2026-05-10",
+                      "publishedAt":  "2026-05-10T00:00:00Z",
+                      "title":  {
+                                    "ko":  "닫기 버튼 동작 확인",
+                                    "ja":  "閉じるボタン動作確認",
+                                    "en":  "Close button check"
+                                }
+                  },
+                  {
+                      "postId":  "diary-legacy-009",
+                      "slot":  9,
+                      "date":  "2026-05-09",
+                      "publishedAt":  "2026-05-09T00:00:00Z",
+                      "title":  {
+                                    "ko":  "짧은 글 샘플",
+                                    "ja":  "短い文章サンプル",
+                                    "en":  "Short text sample"
+                                }
+                  }
+              ]
+}

@@ -1,0 +1,15 @@
+{
+    "schemaVersion":  1,
+    "contentVersion":  "20260802-canonical-v1",
+    "channel":  "worklog",
+    "updatedAt":  "2026-08-01T17:58:30.5294030+00:00",
+    "blocks":  [
+                   {
+                       "type":  "text",
+                       "text":  {
+                                    "ko":  "ELVA의 작업일지\r\n\r\n작업일지도 일기와 같은 Post Browser 구조를 사용합니다.\r\n차이는 채널 이름과 데이터 폴더뿐입니다.\r\n\r\n사진 위주의 기록도 텍스트 블록과 이미지 블록을 섞어서 만들 수 있습니다.\r\n",
+                                    "ja":  "ELVAの作業日誌\r\n\r\n作業日誌も日記と同じ Post Browser 構造を使います。\r\n違いはチャンネル名とデータフォルダだけです。\r\n\r\n写真中心の記録も、テキストブロックと画像ブロックを組み合わせて作れます。\r\n"
+                                }
+                   }
+               ]
+}

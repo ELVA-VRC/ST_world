@@ -1,0 +1,33 @@
+{
+    "schemaVersion":  1,
+    "contentVersion":  "20260802-canonical-v1",
+    "postId":  "worklog-blocks-001",
+    "slot":  1,
+    "channel":  "worklog",
+    "date":  "2026-05-19",
+    "publishedAt":  "2026-05-19T00:00:00Z",
+    "updatedAt":  "2026-08-01T17:58:30.5294030+00:00",
+    "title":  {
+                  "ko":  "이미지 블록 테스트",
+                  "ja":  "画像ブロックテスト",
+                  "en":  "Image Block Test"
+              },
+    "blocks":  [
+                   {
+                       "type":  "text",
+                       "text":  {
+                                    "ko":  "이미지 블록만 있는 글도 가능하지만, 테스트를 위해 앞에는 짧은 설명을 붙였다.\r\n\r\n이미지는 GitHub Pages의 공통 images 폴더에서 번호로 불러온다.\r\ncontent JSON에는 실제 URL 대신 imageSlot과 aspect만 적는다.\r\n",
+                                    "ja":  "画像ブロックだけの記事も可能だが、テスト用に先頭へ短い説明を付けた。\r\n\r\n画像は GitHub Pages の共通 images フォルダから番号で読み込む。\r\ncontent JSON には実際の URL ではなく、imageSlot と aspect だけを書く。\r\n"
+                                }
+                   },
+                   {
+                       "type":  "image",
+                       "imageSlot":  2,
+                       "aspect":  1.7778,
+                       "alt":  {
+                                   "ko":  "",
+                                   "ja":  ""
+                               }
+                   }
+               ]
+}
