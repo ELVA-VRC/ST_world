@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "diary",
-  "updatedAt": "2026-08-02T07:15:02.8517846+00:00",
+  "updatedAt": "2026-08-02T20:41:52.9766995+00:00",
   "posts": [
     {
       "postId": "diary-legacy-009",
       "slot": 9,
       "date": "2026-05-09",
       "publishedAt": "2026-05-09T00:00:00Z",
-      "updatedAt": "2026-08-02T07:15:02.8517846\u002B00:00",
+      "updatedAt": "2026-08-02T20:41:52.9766995\u002B00:00",
       "title": {
-        "ko": "\uC9E7\uC740 \uAE00 \uC0D8\uD50C",
+        "ko": "26/08/03 \uC9E7\uC740 \uAE00 \uC0D8\uD50C",
         "ja": "\u77ED\u3044\u6587\u7AE0\u30B5\u30F3\u30D7\u30EB",
         "en": "Short text sample"
       },
