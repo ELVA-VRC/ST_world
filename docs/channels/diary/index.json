@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "diary",
-  "updatedAt": "2026-08-04T04:31:50.6825899+00:00",
+  "updatedAt": "2026-08-04T04:34:20.7063878+00:00",
   "posts": [
     {
       "postId": "diary-legacy-009",
@@ -83,17 +83,6 @@
         "ko": "\uB77C\uC774\uD2B8 \uBAA8\uB4DC \uC0C9\uAC10 \uBA54\uBAA8",
         "ja": "\u30E9\u30A4\u30C8\u30E2\u30FC\u30C9\u8272\u5473\u30E1\u30E2",
         "en": "Light mode color note"
-      }
-    },
-    {
-      "postId": "diary-legacy-008",
-      "slot": 8,
-      "date": "2026-05-10",
-      "publishedAt": "2026-05-10T00:00:00Z",
-      "title": {
-        "ko": "\uB2EB\uAE30 \uBC84\uD2BC \uB3D9\uC791 \uD655\uC778",
-        "ja": "\u9589\u3058\u308B\u30DC\u30BF\u30F3\u52D5\u4F5C\u78BA\u8A8D",
-        "en": "Close button check"
       }
     }
   ]
