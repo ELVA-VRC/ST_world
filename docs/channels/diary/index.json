@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "diary",
-  "updatedAt": "2026-08-04T04:18:13.3637332+00:00",
+  "updatedAt": "2026-08-04T04:19:03.0766052+00:00",
   "posts": [
     {
       "postId": "diary-legacy-009",
@@ -28,17 +28,6 @@
         "ko": "\uBAA9\uB85D \uC720\uC9C0 \uD14C\uC2A4\uD2B8",
         "ja": "\u30EA\u30B9\u30C8\u4FDD\u6301\u30C6\u30B9\u30C8",
         "en": "List persistence test"
-      }
-    },
-    {
-      "postId": "diary-legacy-019",
-      "slot": 19,
-      "date": "2026-04-29",
-      "publishedAt": "2026-04-29T00:00:00Z",
-      "title": {
-        "ko": "\uAC70\uB9AC \uCD08\uAE30\uD654 \uD14C\uC2A4\uD2B8",
-        "ja": "\u8DDD\u96E2\u30EA\u30BB\u30C3\u30C8\u30C6\u30B9\u30C8",
-        "en": "Distance reset test"
       }
     },
     {
