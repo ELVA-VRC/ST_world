@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "diary",
-  "updatedAt": "2026-08-04T04:22:56.7540467+00:00",
+  "updatedAt": "2026-08-04T04:23:37.893207+00:00",
   "posts": [
     {
       "postId": "diary-legacy-009",
@@ -17,17 +17,6 @@
       },
       "access": {
         "kind": "supporterMonthly"
-      }
-    },
-    {
-      "postId": "diary-legacy-020",
-      "slot": 20,
-      "date": "2026-04-28",
-      "publishedAt": "2026-04-28T00:00:00Z",
-      "title": {
-        "ko": "\uC138 \uBC88\uC9F8 \uD398\uC774\uC9C0 \uC7A5\uBB38 \uD14C\uC2A4\uD2B8",
-        "ja": "\u4E09\u30DA\u30FC\u30B8\u76EE\u306E\u9577\u6587\u30C6\u30B9\u30C8",
-        "en": "Page three long test"
       }
     },
     {
