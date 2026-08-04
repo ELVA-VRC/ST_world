@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "diary",
-  "updatedAt": "2026-08-02T20:41:52.9766995+00:00",
+  "updatedAt": "2026-08-04T04:17:20.275852+00:00",
   "posts": [
     {
       "postId": "diary-legacy-009",
@@ -182,17 +182,6 @@
         "ko": "\uBA38\uB9AC\uB9D0 \uC2A4\uD06C\uB864 \uC810\uAC80",
         "ja": "\u524D\u66F8\u304D\u30B9\u30AF\u30ED\u30FC\u30EB\u78BA\u8A8D",
         "en": "Intro scroll check"
-      }
-    },
-    {
-      "postId": "diary-legacy-004",
-      "slot": 4,
-      "date": "2026-05-14",
-      "publishedAt": "2026-05-14T00:00:00Z",
-      "title": {
-        "ko": "\uBAA9\uB85D \uD398\uC774\uC9C0 \uC804\uD658 \uD14C\uC2A4\uD2B8",
-        "ja": "\u30EA\u30B9\u30C8\u30DA\u30FC\u30B8\u5207\u66FF\u30C6\u30B9\u30C8",
-        "en": "List paging test"
       }
     },
     {
