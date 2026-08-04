@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "worklog",
-  "updatedAt": "2026-08-04T10:24:59.6753048+00:00",
+  "updatedAt": "2026-08-04T10:25:46.1272303+00:00",
   "posts": [
     {
       "postId": "worklog-blocks-001",
@@ -21,8 +21,9 @@
       "slot": 0,
       "date": "2026-05-20",
       "publishedAt": "2026-05-20T00:00:00Z",
+      "updatedAt": "2026-08-04T10:25:46.1272303\u002B00:00",
       "title": {
-        "ko": "\uC138\uB85C \uBAA8\uB2C8\uD130 UI \uC791\uC5C5",
+        "ko": "26/06/24",
         "ja": "\u7E26\u578B\u30E2\u30CB\u30BF\u30FC UI \u4F5C\u696D",
         "en": "Portrait Monitor UI"
       }

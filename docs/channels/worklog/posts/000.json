@@ -1,49 +1,35 @@
 {
-    "schemaVersion":  1,
-    "contentVersion":  "20260802-canonical-v1",
-    "postId":  "worklog-blocks-000",
-    "slot":  0,
-    "channel":  "worklog",
-    "date":  "2026-05-20",
-    "publishedAt":  "2026-05-20T00:00:00Z",
-    "updatedAt":  "2026-08-01T17:58:30.5294030+00:00",
-    "title":  {
-                  "ko":  "세로 모니터 UI 작업",
-                  "ja":  "縦型モニター UI 作業",
-                  "en":  "Portrait Monitor UI"
-              },
-    "blocks":  [
-                   {
-                       "type":  "text",
-                       "text":  {
-                                    "ko":  "세로형 모니터에 맞춰 창 구조를 다시 잡는 작업을 했다.\r\n\r\n런처 창에서 일기나 작업일지를 고르고, 선택한 채널의 머리말과 목록이 열린다.\r\n목록에서 항목을 누르면 본문 창이 위에 뜨고, 그 안에서 텍스트와 이미지가 순서대로 배치된다.\r\n",
-                                    "ja":  "縦型モニターに合わせて、ウィンドウ構造を作り直した。\r\n\r\nランチャーウィンドウで日記または作業日誌を選ぶと、そのチャンネルの導入文と一覧が開く。\r\n一覧から項目を押すと本文ウィンドウが前面に出て、その中にテキストと画像が順番に配置される。\r\n"
-                                }
-                   },
-                   {
-                       "type":  "image",
-                       "imageSlot":  0,
-                       "aspect":  1.7778,
-                       "alt":  {
-                                   "ko":  "",
-                                   "ja":  ""
-                               }
-                   },
-                   {
-                       "type":  "image",
-                       "imageSlot":  1,
-                       "aspect":  1.7778,
-                       "alt":  {
-                                   "ko":  "",
-                                   "ja":  ""
-                               }
-                   },
-                   {
-                       "type":  "text",
-                       "text":  {
-                                    "ko":  "이제 작업일지만 따로 이미지 카드 피드를 쓰지 않는다.\r\n\r\n같은 본문 블록 시스템을 사용하기 때문에, 작업일지에 긴 설명을 넣거나 일기에 이미지를 넣는 것도 같은 방식으로 처리된다.\r\n나중에 사진폴더나 소개 화면도 이 블록 구조를 재사용할 수 있다.\r\n",
-                                    "ja":  "これで作業日誌だけが別の画像カードフィードを使うことはなくなる。\r\n\r\n同じ本文ブロックシステムを使うため、作業日誌に長い説明を入れることも、日記に画像を入れることも同じ方法で処理できる。\r\nあとで写真フォルダや紹介画面にも、このブロック構造を再利用できる。\r\n"
-                                }
-                   }
-               ]
+  "schemaVersion": 1,
+  "contentVersion": "20260802-canonical-v1",
+  "postId": "worklog-blocks-000",
+  "slot": 0,
+  "channel": "worklog",
+  "date": "2026-05-20",
+  "publishedAt": "2026-05-20T00:00:00Z",
+  "updatedAt": "2026-08-04T10:25:46.1272303+00:00",
+  "title": {
+    "ko": "26/06/24",
+    "ja": "\u7E26\u578B\u30E2\u30CB\u30BF\u30FC UI \u4F5C\u696D",
+    "en": "Portrait Monitor UI"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "text": {
+        "ko": "\uB2E4\uB978 \uC6D4\uB4DC\uB97C \uC880 \uB3CC\uC544\uB2E4\uB2C8\uB2E4 \uC6D4\uB4DC\uC758 \uD0C0\uC77C\uB9C1 \uB418\uC5B4\uC788\uB294 \uD14D\uC2A4\uCCD0\uB4E4\uC774 \uBD80\uC2E4\uD558\uB2E4\uACE0 \uB290\uAEF4\uC9C0\uAC8C \uB418\uC5C8\uB2E4.\r\n\uADF8\uB798\uC11C \uACE0\uBBFC\uC911\uC5D0 \uC5B4\uB290\uC21C\uAC04 \uC560\uC6A9\uD558\uB358 QUIXEL\uC740 \uC774\uC81C \uCC98\uB2E4\uB3C4 \uBCF4\uC9C0 \uC54A\uAC8C \uB418\uC5C8\uB2E4\uB294 \uC0AC\uC2E4\uC744 \uC54C\uAC8C \uB410\uB2E4.\r\n\r\nQUIXEL \uBA54\uAC00\uC2A4\uCE94\uC740 \uC815\uB9D0 \uC88B\uC740 \uD004\uB9AC\uD2F0\uC758 \uC790\uB8CC\uB4E4\uC774 \uB9CE\uACE0 \uAC04\uB2E8\uD558\uAC8C \uC720\uB2C8\uD2F0\uB85C \uC784\uD3EC\uD2B8 \uD560\uC218 \uC788\uB294 \uD3B8\uC758\uC131\uAE4C\uC9C0 \uC88B\uC558\uC9C0\uB9CC \uAC11\uC790\uAE30 fab\uC5D0 \uC778\uC218\uB418\uACE0 \uD3B8\uC758\uAE30\uB2A5\uC774 \uC0AD\uC81C\uB418\uC5C8\uB2E4.\r\n\uC790\uB3D9\uC784\uD3EC\uD2B8\uB294 \uC544\uB2C8\uC5B4\uB3C4 \uBE0C\uB9BF\uC9C0\uC5D0\uC11C \uBC1B\uC744\uC218 \uC788\uAC8C\uB9CC\uC774\uB77C\uB3C4 \uD574\uC8FC\uC9C0 \uADF8\uB9C8\uC800\uB3C4 \uBABB\uD558\uAC8C \uB9C9\uC544\uB193\uACE0 \uC6F9\uC0AC\uC774\uD2B8 \uAC00\uC11C \uB2E4\uC6B4\uBC1B\uC544\uC57C \uC4F8\uC218 \uC788\uAC8C \uBC14\uAEF4\uBC84\uB838\uACE0\r\n\uC2DD\uBB3C\uAC19\uC740 \uACBD\uC6B0\uB294 \uC790\uB3D9\uC784\uD3EC\uD2B8\uB97C \uD560\uACBD\uC6B0 \uC790\uB3D9\uC73C\uB85C LOD\uAE4C\uC9C0 \uC138\uD305\uD574\uC8FC\uB294 \uC815\uB9D0 \uAC10\uC0AC\uD55C \uAE30\uB2A5\uC774\uC5C8\uB294\uB370 \uB2F9\uC5F0\uD788 \uC0AD\uC81C\uB418\uC5C8\uB2E4.\r\n\uC774 \uC88B\uC558\uB358 \uD234\uC774 \uD1F4\uBCF4\uB97C \uD558\uB294 \uC640\uC911\uC5D0 \uBC18\uB300\uB85C \uC12D\uC2A4\uD150\uC2A4 \uC5D0\uC14B\uC740 \uB0A0\uB85C \uD3B8\uC758\uAE30\uB2A5\uACFC \uD004\uB9AC\uD2F0\uB97C \uC62C\uB824\uC624\uACE0 \uC788\uC5C8\uAE30\uC5D0\r\n\uC5B4\uC9DC\uD53C \uC12D\uC2A4\uD150\uC2A4\uD398\uC778\uD130\uC640 \uB514\uC790\uC774\uB108\uB294 \uD544\uC218 \uD234\uC774\uAE30\uC5D0 \uC12D\uC2A4\uD150\uC2A4 \uC5D0\uC14B\uB9CC \uC4F0\uAC8C \uB418\uC5B4\uBC84\uB838\uB358 \uAC83\uC774\uB2E4.\r\n\r\n\uD760 \uC624\uB79C\uB9CC QUIXEL \uB77C\uC774\uBE0C\uB7EC\uB9AC\uB97C \uC0AC\uC6A9\uD574\uBCFC\uAE4C? \uD558\uACE0 \uC0AC\uC6A9\uD574\uBD24\uB294\uB370!!!\r\n\uC624\uC624!!! \uC5ED\uC2DC \uADF8 \uD004\uB9AC\uD2F0 \uC5B4\uB514 \uC548\uAC00\uB294\uAD6C\uB098!! \uC12D\uC2A4\uD150\uC2A4 \uC5D0\uC14B \uAC13\uB2E4\uBC84\uB824!!",
+        "ja": "\u7E26\u578B\u30E2\u30CB\u30BF\u30FC\u306B\u5408\u308F\u305B\u3066\u3001\u30A6\u30A3\u30F3\u30C9\u30A6\u69CB\u9020\u3092\u4F5C\u308A\u76F4\u3057\u305F\u3002\r\n\r\n\u30E9\u30F3\u30C1\u30E3\u30FC\u30A6\u30A3\u30F3\u30C9\u30A6\u3067\u65E5\u8A18\u307E\u305F\u306F\u4F5C\u696D\u65E5\u8A8C\u3092\u9078\u3076\u3068\u3001\u305D\u306E\u30C1\u30E3\u30F3\u30CD\u30EB\u306E\u5C0E\u5165\u6587\u3068\u4E00\u89A7\u304C\u958B\u304F\u3002\r\n\u4E00\u89A7\u304B\u3089\u9805\u76EE\u3092\u62BC\u3059\u3068\u672C\u6587\u30A6\u30A3\u30F3\u30C9\u30A6\u304C\u524D\u9762\u306B\u51FA\u3066\u3001\u305D\u306E\u4E2D\u306B\u30C6\u30AD\u30B9\u30C8\u3068\u753B\u50CF\u304C\u9806\u756A\u306B\u914D\u7F6E\u3055\u308C\u308B\u3002\r\n"
+      }
+    },
+    {
+      "type": "image",
+      "imageSlot": 6,
+      "aspect": 1.0406504065040652,
+      "width": 512,
+      "height": 492,
+      "alt": {
+        "ko": "",
+        "ja": ""
+      }
+    }
+  ]
 }
