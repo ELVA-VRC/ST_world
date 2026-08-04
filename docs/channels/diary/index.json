@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "diary",
-  "updatedAt": "2026-08-04T04:34:51.1982535+00:00",
+  "updatedAt": "2026-08-04T04:35:21.2314027+00:00",
   "posts": [
     {
       "postId": "diary-legacy-009",
@@ -61,17 +61,6 @@
         "ko": "\uB9AC\uB85C\uB4DC \uD655\uC778\uC6A9 \uC0D8\uD50C",
         "ja": "\u30EA\u30ED\u30FC\u30C9\u78BA\u8A8D\u7528\u30B5\u30F3\u30D7\u30EB",
         "en": "Reload check sample"
-      }
-    },
-    {
-      "postId": "diary-legacy-012",
-      "slot": 12,
-      "date": "2026-05-06",
-      "publishedAt": "2026-05-06T00:00:00Z",
-      "title": {
-        "ko": "\uC911\uAC04 \uAE38\uC774 \uBCF8\uBB38 \uD14C\uC2A4\uD2B8",
-        "ja": "\u4E2D\u304F\u3089\u3044\u306E\u672C\u6587\u30C6\u30B9\u30C8",
-        "en": "Medium body test"
       }
     }
   ]
