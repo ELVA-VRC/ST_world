@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "diary",
-  "updatedAt": "2026-08-04T04:22:05.9145529+00:00",
+  "updatedAt": "2026-08-04T04:22:56.7540467+00:00",
   "posts": [
     {
       "postId": "diary-legacy-009",
@@ -28,17 +28,6 @@
         "ko": "\uC138 \uBC88\uC9F8 \uD398\uC774\uC9C0 \uC7A5\uBB38 \uD14C\uC2A4\uD2B8",
         "ja": "\u4E09\u30DA\u30FC\u30B8\u76EE\u306E\u9577\u6587\u30C6\u30B9\u30C8",
         "en": "Page three long test"
-      }
-    },
-    {
-      "postId": "diary-legacy-024",
-      "slot": 24,
-      "date": "2026-04-24",
-      "publishedAt": "2026-04-24T00:00:00Z",
-      "title": {
-        "ko": "\uCD5C\uC885 \uC7A5\uBB38 \uC0D8\uD50C",
-        "ja": "\u6700\u5F8C\u306E\u9577\u6587\u30B5\u30F3\u30D7\u30EB",
-        "en": "Final long sample"
       }
     },
     {
