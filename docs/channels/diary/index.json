@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "diary",
-  "updatedAt": "2026-08-04T04:24:46.7903532+00:00",
+  "updatedAt": "2026-08-04T04:26:50.6477645+00:00",
   "posts": [
     {
       "postId": "diary-legacy-009",
@@ -17,17 +17,6 @@
       },
       "access": {
         "kind": "supporterMonthly"
-      }
-    },
-    {
-      "postId": "diary-blocks-000",
-      "slot": 25,
-      "date": "2026-05-18",
-      "publishedAt": "2026-05-18T00:00:00Z",
-      "title": {
-        "ko": "\uCCAB \uBC88\uC9F8 \uACF5\uAC1C \uC77C\uAE30",
-        "ja": "\u6700\u521D\u306E\u516C\u958B\u65E5\u8A18",
-        "en": "First Public Diary"
       }
     },
     {
