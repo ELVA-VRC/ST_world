@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "diary",
-  "updatedAt": "2026-08-04T04:26:50.6477645+00:00",
+  "updatedAt": "2026-08-04T04:27:23.6013926+00:00",
   "posts": [
     {
       "postId": "diary-legacy-009",
@@ -17,17 +17,6 @@
       },
       "access": {
         "kind": "supporterMonthly"
-      }
-    },
-    {
-      "postId": "diary-legacy-022",
-      "slot": 22,
-      "date": "2026-04-26",
-      "publishedAt": "2026-04-26T00:00:00Z",
-      "title": {
-        "ko": "\uC544\uC8FC \uC9E7\uC740 \uAE00 \uD14C\uC2A4\uD2B8",
-        "ja": "\u3068\u3066\u3082\u77ED\u3044\u6587\u7AE0\u30C6\u30B9\u30C8",
-        "en": "Very short text test"
       }
     },
     {
