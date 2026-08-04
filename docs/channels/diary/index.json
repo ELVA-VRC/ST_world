@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "diary",
-  "updatedAt": "2026-08-04T04:27:23.6013926+00:00",
+  "updatedAt": "2026-08-04T04:27:54.8174061+00:00",
   "posts": [
     {
       "postId": "diary-legacy-009",
@@ -17,17 +17,6 @@
       },
       "access": {
         "kind": "supporterMonthly"
-      }
-    },
-    {
-      "postId": "diary-legacy-023",
-      "slot": 23,
-      "date": "2026-04-25",
-      "publishedAt": "2026-04-25T00:00:00Z",
-      "title": {
-        "ko": "\uD398\uC774\uC9C0 \uB05D \uD56D\uBAA9 \uD14C\uC2A4\uD2B8",
-        "ja": "\u30DA\u30FC\u30B8\u672B\u5C3E\u9805\u76EE\u30C6\u30B9\u30C8",
-        "en": "Page end item test"
       }
     },
     {
