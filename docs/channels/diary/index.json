@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "diary",
-  "updatedAt": "2026-08-04T04:30:04.0392421+00:00",
+  "updatedAt": "2026-08-04T04:31:14.8028114+00:00",
   "posts": [
     {
       "postId": "diary-legacy-009",
@@ -28,17 +28,6 @@
         "ko": "\uCCAB \uBC88\uC9F8 \uACF5\uAC1C \uC77C\uAE30",
         "ja": "\u6700\u521D\u306E\u516C\u958B\u65E5\u8A18",
         "en": "First public diary"
-      }
-    },
-    {
-      "postId": "diary-legacy-001",
-      "slot": 1,
-      "date": "2026-05-17",
-      "publishedAt": "2026-05-17T00:00:00Z",
-      "title": {
-        "ko": "\uB450 \uBC88\uC9F8 \uD14C\uC2A4\uD2B8 \uC77C\uAE30",
-        "ja": "\u4E8C\u3064\u76EE\u306E\u30C6\u30B9\u30C8\u65E5\u8A18",
-        "en": "Second test diary"
       }
     },
     {
