@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "diary",
-  "updatedAt": "2026-08-04T04:35:21.2314027+00:00",
+  "updatedAt": "2026-08-04T04:35:50.9592593+00:00",
   "posts": [
     {
       "postId": "diary-legacy-009",
@@ -39,17 +39,6 @@
         "ko": "\uC5B8\uC5B4 \uC804\uD658 \uD655\uC778",
         "ja": "\u8A00\u8A9E\u5207\u66FF\u78BA\u8A8D",
         "en": "Language switch check"
-      }
-    },
-    {
-      "postId": "diary-legacy-010",
-      "slot": 10,
-      "date": "2026-05-08",
-      "publishedAt": "2026-05-08T00:00:00Z",
-      "title": {
-        "ko": "\uB450 \uBC88\uC9F8 \uD398\uC774\uC9C0 \uCCAB \uD56D\uBAA9",
-        "ja": "\u4E8C\u30DA\u30FC\u30B8\u76EE\u306E\u6700\u521D\u306E\u9805\u76EE",
-        "en": "First item on page two"
       }
     },
     {
