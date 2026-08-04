@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "diary",
-  "updatedAt": "2026-08-04T04:28:34.4448751+00:00",
+  "updatedAt": "2026-08-04T04:29:23.8888589+00:00",
   "posts": [
     {
       "postId": "diary-legacy-009",
@@ -17,17 +17,6 @@
       },
       "access": {
         "kind": "supporterMonthly"
-      }
-    },
-    {
-      "postId": "diary-legacy-003",
-      "slot": 3,
-      "date": "2026-05-15",
-      "publishedAt": "2026-05-15T00:00:00Z",
-      "title": {
-        "ko": "\uBA38\uB9AC\uB9D0 \uC2A4\uD06C\uB864 \uC810\uAC80",
-        "ja": "\u524D\u66F8\u304D\u30B9\u30AF\u30ED\u30FC\u30EB\u78BA\u8A8D",
-        "en": "Intro scroll check"
       }
     },
     {
