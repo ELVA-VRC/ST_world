@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "diary",
-  "updatedAt": "2026-08-04T04:35:50.9592593+00:00",
+  "updatedAt": "2026-08-04T04:36:18.9870012+00:00",
   "posts": [
     {
       "postId": "diary-legacy-009",
@@ -39,17 +39,6 @@
         "ko": "\uC5B8\uC5B4 \uC804\uD658 \uD655\uC778",
         "ja": "\u8A00\u8A9E\u5207\u66FF\u78BA\u8A8D",
         "en": "Language switch check"
-      }
-    },
-    {
-      "postId": "diary-legacy-011",
-      "slot": 11,
-      "date": "2026-05-07",
-      "publishedAt": "2026-05-07T00:00:00Z",
-      "title": {
-        "ko": "\uB9AC\uB85C\uB4DC \uD655\uC778\uC6A9 \uC0D8\uD50C",
-        "ja": "\u30EA\u30ED\u30FC\u30C9\u78BA\u8A8D\u7528\u30B5\u30F3\u30D7\u30EB",
-        "en": "Reload check sample"
       }
     }
   ]
