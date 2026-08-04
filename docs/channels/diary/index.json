@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "diary",
-  "updatedAt": "2026-08-04T04:27:54.8174061+00:00",
+  "updatedAt": "2026-08-04T04:28:34.4448751+00:00",
   "posts": [
     {
       "postId": "diary-legacy-009",
@@ -17,17 +17,6 @@
       },
       "access": {
         "kind": "supporterMonthly"
-      }
-    },
-    {
-      "postId": "diary-legacy-013",
-      "slot": 13,
-      "date": "2026-05-05",
-      "publishedAt": "2026-05-05T00:00:00Z",
-      "title": {
-        "ko": "\uD3F0\uD2B8 \uD06C\uAE30 \uC870\uC808 \uD655\uC778",
-        "ja": "\u30D5\u30A9\u30F3\u30C8\u30B5\u30A4\u30BA\u8ABF\u6574\u78BA\u8A8D",
-        "en": "Font size check"
       }
     },
     {
