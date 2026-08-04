@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "diary",
-  "updatedAt": "2026-08-04T04:19:33.0457437+00:00",
+  "updatedAt": "2026-08-04T04:20:04.6507785+00:00",
   "posts": [
     {
       "postId": "diary-legacy-009",
@@ -17,17 +17,6 @@
       },
       "access": {
         "kind": "supporterMonthly"
-      }
-    },
-    {
-      "postId": "diary-legacy-014",
-      "slot": 14,
-      "date": "2026-05-04",
-      "publishedAt": "2026-05-04T00:00:00Z",
-      "title": {
-        "ko": "\uD589\uAC04 \uC870\uC808 \uD655\uC778",
-        "ja": "\u884C\u9593\u8ABF\u6574\u78BA\u8A8D",
-        "en": "Line spacing check"
       }
     },
     {
