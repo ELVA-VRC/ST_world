@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "diary",
-  "updatedAt": "2026-08-04T04:34:20.7063878+00:00",
+  "updatedAt": "2026-08-04T04:34:51.1982535+00:00",
   "posts": [
     {
       "postId": "diary-legacy-009",
@@ -72,17 +72,6 @@
         "ko": "\uC911\uAC04 \uAE38\uC774 \uBCF8\uBB38 \uD14C\uC2A4\uD2B8",
         "ja": "\u4E2D\u304F\u3089\u3044\u306E\u672C\u6587\u30C6\u30B9\u30C8",
         "en": "Medium body test"
-      }
-    },
-    {
-      "postId": "diary-legacy-007",
-      "slot": 7,
-      "date": "2026-05-11",
-      "publishedAt": "2026-05-11T00:00:00Z",
-      "title": {
-        "ko": "\uB77C\uC774\uD2B8 \uBAA8\uB4DC \uC0C9\uAC10 \uBA54\uBAA8",
-        "ja": "\u30E9\u30A4\u30C8\u30E2\u30FC\u30C9\u8272\u5473\u30E1\u30E2",
-        "en": "Light mode color note"
       }
     }
   ]
