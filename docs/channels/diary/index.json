@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "diary",
-  "updatedAt": "2026-08-04T04:29:23.8888589+00:00",
+  "updatedAt": "2026-08-04T04:30:04.0392421+00:00",
   "posts": [
     {
       "postId": "diary-legacy-009",
@@ -17,17 +17,6 @@
       },
       "access": {
         "kind": "supporterMonthly"
-      }
-    },
-    {
-      "postId": "diary-legacy-005",
-      "slot": 5,
-      "date": "2026-05-13",
-      "publishedAt": "2026-05-13T00:00:00Z",
-      "title": {
-        "ko": "\uAE34 \uAE00 \uC2A4\uD06C\uB864 \uD14C\uC2A4\uD2B8",
-        "ja": "\u9577\u6587\u30B9\u30AF\u30ED\u30FC\u30EB\u30C6\u30B9\u30C8",
-        "en": "Long scroll test"
       }
     },
     {
