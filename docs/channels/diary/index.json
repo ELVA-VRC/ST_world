@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "diary",
-  "updatedAt": "2026-08-04T04:31:14.8028114+00:00",
+  "updatedAt": "2026-08-04T04:31:50.6825899+00:00",
   "posts": [
     {
       "postId": "diary-legacy-009",
@@ -28,17 +28,6 @@
         "ko": "\uCCAB \uBC88\uC9F8 \uACF5\uAC1C \uC77C\uAE30",
         "ja": "\u6700\u521D\u306E\u516C\u958B\u65E5\u8A18",
         "en": "First public diary"
-      }
-    },
-    {
-      "postId": "diary-legacy-002",
-      "slot": 2,
-      "date": "2026-05-16",
-      "publishedAt": "2026-05-16T00:00:00Z",
-      "title": {
-        "ko": "\uC138\uB85C \uBAA8\uB2C8\uD130 \uBC30\uCE58 \uD14C\uC2A4\uD2B8",
-        "ja": "\u7E26\u578B\u30E2\u30CB\u30BF\u30FC\u914D\u7F6E\u30C6\u30B9\u30C8",
-        "en": "Portrait monitor layout test"
       }
     },
     {
