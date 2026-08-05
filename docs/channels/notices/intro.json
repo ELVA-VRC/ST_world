@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "notices",
-  "updatedAt": "2026-08-04T07:25:15.2246136+00:00",
+  "updatedAt": "2026-08-05T13:21:10.3119995+00:00",
   "blocks": [
     {
       "type": "text",
@@ -13,10 +13,10 @@
     },
     {
       "type": "image",
-      "imageSlot": 3,
-      "aspect": 1.528358208955224,
+      "imageSlot": 9,
+      "aspect": 1.5058823529411764,
       "width": 512,
-      "height": 335,
+      "height": 340,
       "alt": {
         "ko": "",
         "ja": ""
