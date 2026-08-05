@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "worklog",
-  "updatedAt": "2026-08-04T10:25:46.1272303+00:00",
+  "updatedAt": "2026-08-05T13:22:12.6013276+00:00",
   "posts": [
     {
       "postId": "worklog-blocks-001",
       "slot": 1,
       "date": "2026-05-19",
       "publishedAt": "2026-05-19T00:00:00Z",
-      "updatedAt": "2026-08-04T10:24:59.6753048\u002B00:00",
+      "updatedAt": "2026-08-05T13:22:12.6013276\u002B00:00",
       "title": {
-        "ko": "26/07/12",
+        "ko": "26/07/12 \uC8FC\uC778\uB2D8",
         "ja": "\u753B\u50CF\u30D6\u30ED\u30C3\u30AF\u30C6\u30B9\u30C8",
         "en": "Image Block Test"
       }
