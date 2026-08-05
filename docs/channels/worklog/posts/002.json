@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "20260802-canonical-v1",
+  "postId": "20260805-29cefc216",
+  "slot": 2,
+  "channel": "worklog",
+  "date": "2026-08-05",
+  "publishedAt": "2026-08-05T13:22:49.9250047\u002B00:00",
+  "updatedAt": "2026-08-05T13:22:49.9250047+00:00",
+  "title": {
+    "ko": "26/08/05 - \uC9C1\uC5C5\uBCD1",
+    "ja": "26/08/05 "
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "text": {
+        "ko": "\uB098\uB780 \uC0AC\uB78C\uC740 \uC774\uB300\uB85C \uAD1C\uCC2E\uC740\uAC00...\r\n\uBB54\uAC00 \uB1CC \uD68C\uB85C\uAC00 \uACE0\uC7A5\uB098 \uC788\uB2E4.\r\n\r\nEmyChess\uC758 \uBAA8\uB378\uB9C1\uB3C4 \uC804\uBC18\uC801\uC73C\uB85C \uC218\uC815\uD558\uACE0\r\nUV\uB3C4 \uC804\uBD80 \uB2E4\uC2DC \uC791\uC5C5\uD574 \uBA54\uD14C\uB9AC\uC5BC\uC744 \uC804\uBD80 \uD558\uB098\uB85C \uD1B5\uC77C\uD574 \uCD5C\uC801\uD654\uB3C4 \uD558\uB294 \uB4F1\r\nEmyChess\uB294 \uC774\uBBF8 \uC6D4\uB4DC \uC791\uC5C5\uCD08\uAE30\uC5D0 \uAC70\uC758 \uC644\uC131\uB418\uC5C8\uC9C0\uB9CC\r\n\uC544\uC9C1 \uC644\uC131 \uBABB\uD558\uB358 \uBD80\uBD84\uC774 LTCGI \uC124\uC815\uACFC \uD398\uC774\uD06C\uC250\uB3C4\uC6B0 \uC124\uC815\uC774\uC5C8\uB2E4.\r\n\uADF8\uB9AC\uACE0 \uADF8 \uC791\uC5C5\uC744 \uC5B4\uC81C \uB05D\uB0C8\uB294\uB370...",
+        "ja": "5\uC6D41\uC77C\uC5D0 \uC774\uBBF8 \uC791\uC5C5\uC744 \uC2DC\uC791\uD588\uC5C8\uB124..."
+      }
+    },
+    {
+      "type": "image",
+      "imageSlot": 11,
+      "aspect": 2.0237154150197627,
+      "width": 512,
+      "height": 253,
+      "alt": {
+        "ko": "",
+        "ja": ""
+      }
+    },
+    {
+      "type": "image",
+      "imageSlot": 12,
+      "aspect": 1.5468277945619335,
+      "width": 512,
+      "height": 331,
+      "alt": {
+        "ko": "",
+        "ja": ""
+      }
+    },
+    {
+      "type": "image",
+      "imageSlot": 13,
+      "aspect": 1.7009966777408638,
+      "width": 512,
+      "height": 301,
+      "alt": {
+        "ko": "",
+        "ja": ""
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "ko": "\r\n\r\n\uC774 \uC601\uB871\uD568....\r\n\uC544....\r\n\uC624\uB974\uAC00\uC998\uC774 \uCC28\uC624\uB978\uB2E4....\r\n3D \uC791\uC5C5\uC744 \uB04A\uC744\uC218 \uC5C6\uB294 \uC774\uC720\r\n\r\n\r\n\r\n",
+        "ja": "\uC774 \uC601\uB871\uD568....\r\n\uC544....\r\n\uC624\uB974\uAC00\uC998\uC774 \uCC28\uC624\uB978\uB2E4....\r\n3D \uC791\uC5C5\uC744 \uB04A\uC744\uC218 \uC5C6\uB294 \uC774\uC720"
+      }
+    },
+    {
+      "type": "image",
+      "imageSlot": 14,
+      "aspect": 2.0237154150197627,
+      "width": 512,
+      "height": 253,
+      "alt": {
+        "ko": "",
+        "ja": ""
+      }
+    }
+  ]
+}
