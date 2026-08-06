@@ -2,8 +2,20 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "notices",
-  "updatedAt": "2026-08-06T10:04:25.3253627+00:00",
+  "updatedAt": "2026-08-06T11:54:14.5159713+00:00",
   "posts": [
+    {
+      "postId": "20260804-885ac1d6a",
+      "slot": 2,
+      "date": "2026-08-06",
+      "publishedAt": "2026-08-06T11:54:14.5159713\u002B00:00",
+      "updatedAt": "2026-08-06T11:54:14.5159713\u002B00:00",
+      "title": {
+        "ko": "\uB85C\uB4DC\uB9F5",
+        "ja": "\u30ED\u30FC\u30C9\u30DE\u30C3\u30D7",
+        "en": "Roadmap"
+      }
+    },
     {
       "postId": "20260804-1602066be",
       "slot": 0,
