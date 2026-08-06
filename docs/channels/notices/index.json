@@ -2,20 +2,8 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "notices",
-  "updatedAt": "2026-08-06T09:17:01.0262685+00:00",
+  "updatedAt": "2026-08-06T09:18:42.0925191+00:00",
   "posts": [
-    {
-      "postId": "20260804-8103ba4d0",
-      "slot": 1,
-      "date": "2026-08-06",
-      "publishedAt": "2026-08-06T09:12:50.1044682\u002B00:00",
-      "updatedAt": "2026-08-06T09:17:01.0262685\u002B00:00",
-      "title": {
-        "ko": "\uAE30\uB2A5 \uC18C\uAC1C",
-        "ja": "\u6A5F\u80FD\u7D39\u4ECB",
-        "en": "World Features"
-      }
-    },
     {
       "postId": "20260804-1602066be",
       "slot": 0,
@@ -26,6 +14,18 @@
         "ko": "\uC6D4\uB4DC \uC18C\uAC1C",
         "ja": "\u30EF\u30FC\u30EB\u30C9\u7D39\u4ECB",
         "en": "About Still Tide"
+      }
+    },
+    {
+      "postId": "20260804-8103ba4d0",
+      "slot": 1,
+      "date": "2026-08-06",
+      "publishedAt": "2026-08-06T09:12:50.1044682\u002B00:00",
+      "updatedAt": "2026-08-06T09:17:01.0262685\u002B00:00",
+      "title": {
+        "ko": "\uAE30\uB2A5 \uC18C\uAC1C",
+        "ja": "\u6A5F\u80FD\u7D39\u4ECB",
+        "en": "World Features"
       }
     }
   ]
