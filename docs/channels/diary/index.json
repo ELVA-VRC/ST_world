@@ -2,17 +2,17 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "diary",
-  "updatedAt": "2026-08-04T09:02:36.1262797+00:00",
+  "updatedAt": "2026-08-09T02:53:48.6939874+00:00",
   "posts": [
     {
       "postId": "diary-legacy-000",
       "slot": 0,
       "date": "2026-05-18",
       "publishedAt": "2026-05-18T00:00:00Z",
-      "updatedAt": "2026-08-04T07:24:19.9907367\u002B00:00",
+      "updatedAt": "2026-08-09T02:53:48.6939874\u002B00:00",
       "title": {
         "ko": "26/05/02 - \uB3C4\uD30C\uBBFC",
-        "ja": "\u6700\u521D\u306E\u516C\u958B\u65E5\u8A18",
+        "ja": "26/05/02 - \u30C9\u30FC\u30D1\u30DF\u30F3",
         "en": "First public diary"
       },
       "access": {
