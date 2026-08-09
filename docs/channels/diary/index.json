@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "diary",
-  "updatedAt": "2026-08-09T12:06:55.7222869+00:00",
+  "updatedAt": "2026-08-09T16:23:43.8345626+00:00",
   "posts": [
     {
       "postId": "diary-legacy-000",
@@ -21,7 +21,7 @@
       "slot": 1,
       "date": "2026-08-09",
       "publishedAt": "2026-08-09T12:06:55.7222869\u002B00:00",
-      "updatedAt": "2026-08-09T12:06:55.7222869\u002B00:00",
+      "updatedAt": "2026-08-09T16:23:43.8345626\u002B00:00",
       "title": {
         "ko": "26/02/01 - \uC5B8\uD504\uB80C\uB4DC",
         "ja": "26/02/01 - \u30A2\u30F3\u30D5\u30EC\u30F3\u30C9"
