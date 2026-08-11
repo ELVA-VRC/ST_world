@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "notices",
-  "updatedAt": "2026-08-11T08:22:28.9650929+00:00",
+  "updatedAt": "2026-08-11T08:23:46.5343408+00:00",
   "posts": [
     {
       "postId": "20260804-1602066be",
@@ -50,6 +50,18 @@
         "ko": "26/08/11 \uC6D4\uB4DC \uB9B4\uB9AC\uC988!!",
         "ja": "26/08/11 \u30EF\u30FC\u30EB\u30C9\u30EA\u30EA\u30FC\u30B9\uFF01\uFF01",
         "en": "26/08/11 World Release!!"
+      }
+    },
+    {
+      "postId": "20260804-a8074dcfc",
+      "slot": 4,
+      "date": "2026-08-11",
+      "publishedAt": "2026-08-11T08:23:46.5343408\u002B00:00",
+      "updatedAt": "2026-08-11T08:23:46.5343408\u002B00:00",
+      "title": {
+        "ko": "26/08/10 \uD6C4\uC6D0\uD398\uC774\uC9C0 \uC624\uD508!!",
+        "ja": "26/08/10 \u652F\u63F4\u30DA\u30FC\u30B8\u30AA\u30FC\u30D7\u30F3\uFF01\uFF01",
+        "en": "26/08/10 Support Page Now Open!!"
       }
     }
   ]
