@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "notices",
-  "updatedAt": "2026-08-11T08:25:45.1068431+00:00",
+  "updatedAt": "2026-08-11T08:26:18.4677328+00:00",
   "posts": [
     {
       "postId": "20260804-1e2b9ab94",
@@ -29,18 +29,6 @@
       }
     },
     {
-      "postId": "20260804-1602066be",
-      "slot": 0,
-      "date": "2026-08-05",
-      "publishedAt": "2026-08-05T13:19:28.4530130\u002B00:00",
-      "updatedAt": "2026-08-08T06:56:51.6573308\u002B00:00",
-      "title": {
-        "ko": "\uC6D4\uB4DC \uC18C\uAC1C",
-        "ja": "\u30EF\u30FC\u30EB\u30C9\u7D39\u4ECB",
-        "en": "About Still Tide"
-      }
-    },
-    {
       "postId": "20260804-8103ba4d0",
       "slot": 1,
       "date": "2026-08-06",
@@ -62,6 +50,18 @@
         "ko": "\uB85C\uB4DC\uB9F5",
         "ja": "\u30ED\u30FC\u30C9\u30DE\u30C3\u30D7",
         "en": "Roadmap"
+      }
+    },
+    {
+      "postId": "20260804-1602066be",
+      "slot": 0,
+      "date": "2026-08-05",
+      "publishedAt": "2026-08-05T13:19:28.4530130\u002B00:00",
+      "updatedAt": "2026-08-08T06:56:51.6573308\u002B00:00",
+      "title": {
+        "ko": "\uC6D4\uB4DC \uC18C\uAC1C",
+        "ja": "\u30EF\u30FC\u30EB\u30C9\u7D39\u4ECB",
+        "en": "About Still Tide"
       }
     }
   ]
