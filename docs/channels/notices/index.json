@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "notices",
-  "updatedAt": "2026-08-08T06:57:48.4933+00:00",
+  "updatedAt": "2026-08-11T08:22:28.9650929+00:00",
   "posts": [
     {
       "postId": "20260804-1602066be",
@@ -38,6 +38,18 @@
         "ko": "\uB85C\uB4DC\uB9F5",
         "ja": "\u30ED\u30FC\u30C9\u30DE\u30C3\u30D7",
         "en": "Roadmap"
+      }
+    },
+    {
+      "postId": "20260804-1e2b9ab94",
+      "slot": 3,
+      "date": "2026-08-11",
+      "publishedAt": "2026-08-11T08:22:28.9650929\u002B00:00",
+      "updatedAt": "2026-08-11T08:22:28.9650929\u002B00:00",
+      "title": {
+        "ko": "26/08/11 \uC6D4\uB4DC \uB9B4\uB9AC\uC988!!",
+        "ja": "26/08/11 \u30EF\u30FC\u30EB\u30C9\u30EA\u30EA\u30FC\u30B9\uFF01\uFF01",
+        "en": "26/08/11 World Release!!"
       }
     }
   ]
