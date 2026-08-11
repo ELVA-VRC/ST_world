@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "notices",
-  "updatedAt": "2026-08-11T08:26:56.895967+00:00",
+  "updatedAt": "2026-08-11T08:28:49.6716526+00:00",
   "posts": [
     {
       "postId": "20260804-1e2b9ab94",
@@ -57,11 +57,11 @@
       "slot": 0,
       "date": "2026-08-05",
       "publishedAt": "2026-08-05T13:19:28.4530130\u002B00:00",
-      "updatedAt": "2026-08-08T06:56:51.6573308\u002B00:00",
+      "updatedAt": "2026-08-11T08:28:49.6716526\u002B00:00",
       "title": {
-        "ko": "\uC6D4\uB4DC \uC18C\uAC1C",
-        "ja": "\u30EF\u30FC\u30EB\u30C9\u7D39\u4ECB",
-        "en": "About Still Tide"
+        "ko": "\uC6D4\uB4DC \uC18C\uAC1C [intro]",
+        "ja": "\u30EF\u30FC\u30EB\u30C9\u7D39\u4ECB [intro]",
+        "en": "About Still Tide [intro]"
       }
     }
   ]
