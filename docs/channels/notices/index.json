@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "notices",
-  "updatedAt": "2026-08-11T08:28:49.6716526+00:00",
+  "updatedAt": "2026-08-12T04:55:51.0972387+00:00",
   "posts": [
     {
       "postId": "20260804-1e2b9ab94",
@@ -62,6 +62,18 @@
         "ko": "\uC6D4\uB4DC \uC18C\uAC1C [intro]",
         "ja": "\u30EF\u30FC\u30EB\u30C9\u7D39\u4ECB [intro]",
         "en": "About Still Tide [intro]"
+      }
+    },
+    {
+      "postId": "20260812-b200fca25",
+      "slot": 5,
+      "date": "2026-08-12",
+      "publishedAt": "2026-08-12T04:55:51.0972387\u002B00:00",
+      "updatedAt": "2026-08-12T04:55:51.0972387\u002B00:00",
+      "title": {
+        "ko": "\uD37C\uBE14\uB9AD/\uADF8\uB8F9 \uC778\uC2A4\uD134\uC2A4 \uBC84\uADF8",
+        "ja": "\u30D1\u30D6\u30EA\u30C3\u30AF/\u30B0\u30EB\u30FC\u30D7\u30A4\u30F3\u30B9\u30BF\u30F3\u30B9\u306E\u30D0\u30B0",
+        "en": "Public/Group Instance Bugs"
       }
     }
   ]
