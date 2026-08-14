@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "20260802-canonical-v1",
+  "postId": "20260814-6500f9430",
+  "slot": 6,
+  "channel": "notices",
+  "date": "2026-08-14",
+  "publishedAt": "2026-08-14T19:56:39.3869526\u002B00:00",
+  "updatedAt": "2026-08-14T19:56:39.3869526+00:00",
+  "title": {
+    "ko": "WIP = Work in Progress",
+    "ja": "WIP = Work in Progress",
+    "en": "WIP = Work in Progress"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "text": {
+        "ko": "WIP\uC740 VVIP\uAC00 \uC544\uB2D9\uB2C8\uB2E4!!\n\nWIP\uC740 Work in Progress\uC758 \uC904\uC784\uB9D0\uB85C,\n\u2018\uC544\uC9C1 \uAC1C\uBC1C \uC911\u2019\uC774\uB77C\uB294 \uB73B\uC785\uB2C8\uB2E4!\n\n\uC774\uAC8C \uC880 \uD63C\uB3D9\uB420 \uC218\uB3C4 \uC788\uB294 \uAC83 \uAC19\uB124\uC694!!\n\uB2E4\uC74C \uC5C5\uB370\uC774\uD2B8\uC5D0\uC11C \uAD00\uB828 \uD45C\uAE30\uB97C \uBAA8\uB450 \uC218\uC815\uD558\uACA0\uC2B5\uB2C8\uB2E4!\n\n\uADF8\uC804\uAE4C\uC9C0 \uD639\uC2DC \uBAA8\uB974\uB2C8 \uC77C\uB2E8 \uACF5\uC9C0\uB97C \uB0A8\uACA8\uC694!!",
+        "ja": "WIP\u306FVVIP\u3068\u3044\u3046\u610F\u5473\u3067\u306F\u3042\u308A\u307E\u305B\u3093\uFF01\uFF01\n\nWIP\u306FWork in Progress\u306E\u7565\u3067\u3001\n\u300C\u307E\u3060\u958B\u767A\u4E2D\u300D\u3068\u3044\u3046\u610F\u5473\u3067\u3059\uFF01\n\n\u5C11\u3057\u7D1B\u3089\u308F\u3057\u3044\u304B\u3082\u3057\u308C\u307E\u305B\u3093\u306D\uFF01\uFF01\n\n\u6B21\u56DE\u306E\u30A2\u30C3\u30D7\u30C7\u30FC\u30C8\u3067\u3001\n\u95A2\u9023\u3059\u308B\u8868\u8A18\u3092\u3059\u3079\u3066\u4FEE\u6B63\u3057\u307E\u3059\uFF01\n\n\u305D\u308C\u307E\u3067\u306F\u5FF5\u306E\u305F\u3081\u3001\n\u5148\u306B\u304A\u77E5\u3089\u305B\u3057\u3066\u304A\u304D\u307E\u3059\uFF01\uFF01",
+        "en": "WIP Does Not Mean VVIP!!\n\nWIP stands for Work in Progress,\nwhich means \u201Cstill under development\u201D!\n\nI can see how this might be\na little confusing!!\n\nI\u2019ll update all the related labels\nin the next update!\n\nUntil then, I\u2019m posting this notice\njust in case!!"
+      }
+    }
+  ]
+}
