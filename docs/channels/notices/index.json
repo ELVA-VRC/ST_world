@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "notices",
-  "updatedAt": "2026-08-14T19:57:40.8256506+00:00",
+  "updatedAt": "2026-08-14T20:04:39.1943259+00:00",
   "posts": [
     {
       "postId": "20260814-6500f9430",
@@ -21,11 +21,11 @@
       "slot": 5,
       "date": "2026-08-12",
       "publishedAt": "2026-08-12T04:55:51.0972387\u002B00:00",
-      "updatedAt": "2026-08-12T19:28:02.4031361\u002B00:00",
+      "updatedAt": "2026-08-14T20:04:39.1943259\u002B00:00",
       "title": {
-        "ko": "\uD37C\uBE14\uB9AD/\uADF8\uB8F9 \uC778\uC2A4\uD134\uC2A4 \uBC84\uADF8",
-        "ja": "\u30D1\u30D6\u30EA\u30C3\u30AF/\u30B0\u30EB\u30FC\u30D7\u30A4\u30F3\u30B9\u30BF\u30F3\u30B9\u306E\u30D0\u30B0",
-        "en": "Public/Group Instance Bugs"
+        "ko": "\uD37C\uBE14\uB9AD/\uADF8\uB8F9 \uC778\uC2A4\uD134\uC2A4 \uBC84\uADF8 - \uC218\uC815 \uC644\uB8CC",
+        "ja": "\u30D1\u30D6\u30EA\u30C3\u30AF/\u30B0\u30EB\u30FC\u30D7\u30A4\u30F3\u30B9\u30BF\u30F3\u30B9\u306E\u30D0\u30B0 - \u4FEE\u6B63\u5B8C\u4E86",
+        "en": "Public/Group Instance Bugs - Fixed"
       }
     },
     {
