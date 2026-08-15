@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "worklog",
-  "updatedAt": "2026-08-13T08:00:25.2144325+00:00",
+  "updatedAt": "2026-08-15T10:45:05.3360447+00:00",
   "posts": [
     {
       "postId": "20260804-77afeb0e0",
@@ -58,6 +58,17 @@
         "ko": "26/06/24 - \uD68C\uADC0",
         "ja": "26/06/24 - \u56DE\u5E30",
         "en": "Portrait Monitor UI"
+      }
+    },
+    {
+      "postId": "20260815-2548fabee",
+      "slot": 6,
+      "date": "2026-08-15",
+      "publishedAt": "2026-08-15T10:45:05.3360447\u002B00:00",
+      "updatedAt": "2026-08-15T10:45:05.3360447\u002B00:00",
+      "title": {
+        "ko": "26/08/15 - \uBE75\uAC8C\uC784",
+        "ja": "26/08/15 - \u30D1\u30F3\u30B2\u30FC\u30E0"
       }
     }
   ]
