@@ -6,13 +6,13 @@
   "channel": "notices",
   "date": "2026-08-19",
   "publishedAt": "2026-08-19T12:15:29.7180056\u002B00:00",
-  "updatedAt": "2026-08-19T12:15:29.7180056+00:00",
+  "updatedAt": "2026-08-19T12:23:08.305731+00:00",
   "title": {
     "ko": "26/08/19 - \uC5C5\uB370\uC774\uD2B8!!!",
     "ja": "26/08/19 - \u30A2\u30C3\u30D7\u30C7\u30FC\u30C8!!!",
     "en": "26/08/19 - UPDATE"
   },
-  "newUntilUnixSeconds": 1788351329,
+  "newUntilUnixSeconds": 0,
   "blocks": [
     {
       "type": "text",
