@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "notices",
-  "updatedAt": "2026-08-19T12:23:08.305731+00:00",
+  "updatedAt": "2026-08-19T15:40:45.2926574+00:00",
   "posts": [
     {
       "postId": "20260818-c359d4950",
@@ -15,7 +15,7 @@
         "ja": "26/08/19 - \u30A2\u30C3\u30D7\u30C7\u30FC\u30C8!!!",
         "en": "26/08/19 - UPDATE"
       },
-      "newUntilUnixSeconds": 0
+      "newUntilUnixSeconds": 1788351329
     },
     {
       "postId": "20260814-6500f9430",
