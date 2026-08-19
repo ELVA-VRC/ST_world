@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "notices",
-  "updatedAt": "2026-08-14T20:04:39.1943259+00:00",
+  "updatedAt": "2026-08-19T12:15:29.7180056+00:00",
   "posts": [
     {
       "postId": "20260814-6500f9430",
@@ -87,6 +87,19 @@
         "ja": "\u30EF\u30FC\u30EB\u30C9\u7D39\u4ECB [intro]",
         "en": "About Still Tide [intro]"
       }
+    },
+    {
+      "postId": "20260818-c359d4950",
+      "slot": 7,
+      "date": "2026-08-19",
+      "publishedAt": "2026-08-19T12:15:29.7180056\u002B00:00",
+      "updatedAt": "2026-08-19T12:15:29.7180056\u002B00:00",
+      "title": {
+        "ko": "26/08/19 - \uC5C5\uB370\uC774\uD2B8!!!",
+        "ja": "26/08/19 - \u30A2\u30C3\u30D7\u30C7\u30FC\u30C8!!!",
+        "en": "26/08/19 - UPDATE"
+      },
+      "newUntilUnixSeconds": 1788351329
     }
   ]
 }
