@@ -2,8 +2,20 @@
   "schemaVersion": 1,
   "contentVersion": "20260802-canonical-v1",
   "channel": "worklog",
-  "updatedAt": "2026-09-13T09:59:42.5907897+00:00",
+  "updatedAt": "2026-09-13T10:00:17.7301858+00:00",
   "posts": [
+    {
+      "postId": "20260912-1367ce286",
+      "slot": 8,
+      "date": "2026-09-13",
+      "publishedAt": "2026-09-13T09:59:42.5907897\u002B00:00",
+      "updatedAt": "2026-09-13T09:59:42.5907897\u002B00:00",
+      "title": {
+        "ko": "26/09/12 - \uC544\uC2A4\uD2B8\uB77C \uBAA8\uB378\uB9C1",
+        "ja": "26/09/12 - \u30A2\u30B9\u30C8\u30E9\u3067\u30E2\u30C7\u30EA\u30F3\u30B0"
+      },
+      "newUntilUnixSeconds": 1790503182
+    },
     {
       "postId": "20260906-5c9cfb67f",
       "slot": 7,
@@ -82,18 +94,6 @@
         "ja": "26/06/24 - \u56DE\u5E30",
         "en": "Portrait Monitor UI"
       }
-    },
-    {
-      "postId": "20260912-1367ce286",
-      "slot": 8,
-      "date": "2026-09-13",
-      "publishedAt": "2026-09-13T09:59:42.5907897\u002B00:00",
-      "updatedAt": "2026-09-13T09:59:42.5907897\u002B00:00",
-      "title": {
-        "ko": "26/09/12 - \uC544\uC2A4\uD2B8\uB77C \uBAA8\uB378\uB9C1",
-        "ja": "26/09/12 - \u30A2\u30B9\u30C8\u30E9\u3067\u30E2\u30C7\u30EA\u30F3\u30B0"
-      },
-      "newUntilUnixSeconds": 1790503182
     }
   ]
 }
