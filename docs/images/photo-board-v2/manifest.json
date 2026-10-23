@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 1,
-  "revision": "def4171d223443a629d8e965266ac09950eefe9e77e469a0454d2981fc008f3d",
-  "bank": 1,
+  "schemaVersion": 2,
+  "revision": "eb7edbf77c9b960f0bc12ba7a40036c83e9499a7ab4364c4a011c9b4fbb7fa7f",
+  "bank": 0,
   "padding": 8,
   "horizontalAspect": 1.5211612,
   "verticalAspect": 0.8082971,
@@ -25,8 +25,8 @@
     0,
     0
   ],
-  "horizontalWidth": 1088,
-  "horizontalHeight": 552,
-  "verticalWidth": 669,
-  "verticalHeight": 816
+  "horizontalWidth": 1584,
+  "horizontalHeight": 1412,
+  "verticalWidth": 1290,
+  "verticalHeight": 1584
 }
