@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "revision": "def4171d223443a629d8e965266ac09950eefe9e77e469a0454d2981fc008f3d",
+  "bank": 0,
+  "padding": 8,
+  "horizontalAspect": 1.5211612,
+  "verticalAspect": 0.8082971,
+  "horizontalCounts": [
+    11,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "verticalCounts": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "horizontalWidth": 1088,
+  "horizontalHeight": 552,
+  "verticalWidth": 669,
+  "verticalHeight": 816
+}
